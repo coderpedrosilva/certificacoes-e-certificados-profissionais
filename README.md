@@ -49,7 +49,6 @@
 | TypeScript aprenda do zero ao avançado na prática                                       | [Ver certificado](https://www.udemy.com/certificate/UC-aa15f9e4-bb2f-43f9-93cb-39fe7222b0b8/)    | Udemy       |
 | Bootcamp GFT Start #5 Java                                                              | [Ver certificado](https://www.dio.me/certificate/F5EB5AFF/share)                                 | DIO         |
 | C# COMPLETO Programação Orientada a Objetos + Projetos                                  | [Ver certificado](https://www.udemy.com/certificate/UC-8814cbbc-8dc6-4fb2-9bca-936c30798c61/)    | Udemy       |
-| Basecamp 42 São Paulo                                                                   | [Ver certificado](https://acampei.42sp.org.br/)                                                  | 42 São Paulo |
 | Conhecendo os Principais Protocolos de Comunicação da Internet                          | [Ver certificado](https://www.dio.me/certificate/62B01A15/share)                                 | DIO         |
 | Introdução à Programação e Pensamento Computacional                                     | [Ver certificado](https://www.dio.me/certificate/16860F21/share)                                 | DIO         |
 | Bootcamp GFT Start #4 Java                                                              | [Ver certificado](https://www.dio.me/certificate/5C40033F/share)                                 | DIO         |
