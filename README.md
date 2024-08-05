@@ -1,4 +1,28 @@
-| Descrição                                                                               | Link                                     | Instituição |
+## Certificações Profissionais
+
+| Certificação                                                                             | Link                                     | Instituição |
+|-----------------------------------------------------------------------------------------|------------------------------------------|-------------|
+| Oracle Cloud Infrastructure 2023 Certified Foundations Associate                        | [Ver certificação](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79D86557E4FE5259B1BD15DD78314CB9FA241E48A935E3864A813BC7903628D8) | Oracle |
+| Admin                                                                                   | [Ver certificação](https://academy.talkdesk.com/certificate/Xd9J24VSoA)                           | Talkdesk    |
+| Administrador Avançado                                                                  | [Ver certificação](https://academy.talkdesk.com/certificate/Y8cEDi0Brg)                           | Talkdesk    |
+| Agente                                                                                  | [Ver certificação](https://academy.talkdesk.com/certificate/y_y7u0OZtQ)                           | Talkdesk    |
+| CCaaS & Integrations Product Module x                                                   | [Ver certificação](https://academy.talkdesk.com/certificate/rCTWI1owkw)                           | Talkdesk    |
+| CX Cloud Delivery Exam                                                                  | [Ver certificação](https://academy.talkdesk.com/certificate/kzR7uKEFWg)                           | Talkdesk    |
+| Healthcare Provider Expert                                                              | [Ver certificação](https://academy.talkdesk.com/certificate/aKLF32zrEg)                           | Talkdesk    |
+| Inteligência Artificial                                                                 | [Ver certificação](https://academy.talkdesk.com/certificate/Uf0len25Kw)                           | Talkdesk    |
+| Reporting & Analytics                                                                   | [Ver certificação](https://academy.talkdesk.com/certificate/wl6OLi9BaA)                           | Talkdesk    |
+| Supervisor                                                                              | [Ver certificação](https://academy.talkdesk.com/certificate/53NejQJa3w)                           | Talkdesk    |
+| Talkdesk Partner Certification for Sellers                                              | [Ver certificação](https://academy.talkdesk.com/certificate/eDdGDAzouw)                           | Talkdesk    |
+| Talkdesk Partner Certification for Support                                              | [Ver certificação](https://academy.talkdesk.com/certificate/LaOnf-PuLQ)                           | Talkdesk    |
+| Talkdesk Partner Certification for Technical Sellers                                    | [Ver certificação](https://academy.talkdesk.com/certificate/aevec8OT7A)                           | Talkdesk    |
+| UCaaS Product Module x                                                                  | [Ver certificação](https://academy.talkdesk.com/certificate/LFi5m5kFqg)                           | Talkdesk    |
+| Workforce Engagement Management Product Module x                                        | [Ver certificação](https://academy.talkdesk.com/certificate/6H85Ya-Bww)                           | Talkdesk    |
+
+<br>
+
+## Cursos de especialização
+
+| Cursos                                                                                  | Link                                     | Instituição |
 |-----------------------------------------------------------------------------------------|------------------------------------------|-------------|
 | API REST e Spring Boot: Aprenda do Zero e na Prática                                    | [Ver certificado](https://www.udemy.com/certificate/UC-180a282f-a0de-44b0-a763-12e029bb6ecd/)    | Udemy       |
 | The Foundations of SIP                                                                  | [Ver certificado](https://www.udemy.com/certificate/UC-2fb9ba8d-c27e-46e1-bd79-8ddb69f495fc/)    | Udemy       |
@@ -9,22 +33,7 @@
 | Aprenda tudo sobre o Linux! Completo e atualizado v2024!                                | [Ver certificado](https://www.udemy.com/certificate/UC-89fcf5c2-a070-4f83-83a0-9b98fa6e52bb/)    | Udemy       |
 | Banco de Dados e Linguagem SQL com PostgreSQL                                           | [Ver certificado](https://www.udemy.com/certificate/UC-e4fe3782-46e9-4360-b234-7b70445acb74/)    | Udemy       |
 | Terraform - Do Básico ao Avançado                                                       | [Ver certificado](https://www.udemy.com/certificate/UC-8e696dd9-f928-4b18-81ce-99705d1ade5a/)    | Udemy       |
-| Admin                                                                                   | [Ver certificado](https://academy.talkdesk.com/certificate/Xd9J24VSoA)                           | Talkdesk    |
-| Administrador Avançado                                                                  | [Ver certificado](https://academy.talkdesk.com/certificate/Y8cEDi0Brg)                           | Talkdesk    |
-| Agente                                                                                  | [Ver certificado](https://academy.talkdesk.com/certificate/y_y7u0OZtQ)                           | Talkdesk    |
-| CCaaS & Integrations Product Module x                                                   | [Ver certificado](https://academy.talkdesk.com/certificate/rCTWI1owkw)                           | Talkdesk    |
-| CX Cloud Delivery Exam                                                                  | [Ver certificado](https://academy.talkdesk.com/certificate/kzR7uKEFWg)                           | Talkdesk    |
-| Healthcare Provider Expert                                                              | [Ver certificado](https://academy.talkdesk.com/certificate/aKLF32zrEg)                           | Talkdesk    |
-| Inteligência Artificial                                                                 | [Ver certificado](https://academy.talkdesk.com/certificate/Uf0len25Kw)                           | Talkdesk    |
-| Oracle Cloud Infrastructure 2023 Certified Foundations Associate                        | [Ver certificado](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79D86557E4FE5259B1BD15DD78314CB9FA241E48A935E3864A813BC7903628D8) | Oracle |
 | Jornada do Oracle Cloud Infrastructure                                                  | [Ver certificado](https://www.udemy.com/certificate/UC-7879bf9c-e58f-4265-9f2e-3de2fe873167/)    | Udemy       |
-| Reporting & Analytics                                                                   | [Ver certificado](https://academy.talkdesk.com/certificate/wl6OLi9BaA)                           | Talkdesk    |
-| Supervisor                                                                              | [Ver certificado](https://academy.talkdesk.com/certificate/53NejQJa3w)                           | Talkdesk    |
-| Talkdesk Partner Certification for Sellers                                              | [Ver certificado](https://academy.talkdesk.com/certificate/eDdGDAzouw)                           | Talkdesk    |
-| Talkdesk Partner Certification for Support                                              | [Ver certificado](https://academy.talkdesk.com/certificate/LaOnf-PuLQ)                           | Talkdesk    |
-| Talkdesk Partner Certification for Technical Sellers                                    | [Ver certificado](https://academy.talkdesk.com/certificate/aevec8OT7A)                           | Talkdesk    |
-| UCaaS Product Module x                                                                  | [Ver certificado](https://academy.talkdesk.com/certificate/LFi5m5kFqg)                           | Talkdesk    |
-| Workforce Engagement Management Product Module x                                        | [Ver certificado](https://academy.talkdesk.com/certificate/6H85Ya-Bww)                           | Talkdesk    |
 | Aprenda Regex do zero                                                                   | [Ver certificado](https://www.udemy.com/certificate/UC-1c124f15-5526-41d8-a961-a6429cbc7d2c/)    | Udemy       |
 | Arquitetura de Redes                                                                    | [Ver certificado](https://www.udemy.com/certificate/UC-a019e4a1-c7b3-4175-91e3-5e6508f8d636/)    | Udemy       |
 | Implantando o Grafana                                                                   | [Ver certificado](https://www.udemy.com/certificate/UC-f6ed3802-b5e3-4562-825f-71ca8f05d8fa/)    | Udemy       |
