@@ -87,7 +87,7 @@ Olá! Bem-vindo ao meu repositório de aprendizado e desenvolvimento contínuo. 
 | Git e Github Essencial para o Desenvolvedor                                             | [Ver certificado](https://www.udemy.com/certificate/UC-f9f8ab4c-a494-4602-ace0-f7c978dfc5ff/)    | Udemy       |
 | Photoshop Para Todos                                                                    | [Ver certificado](https://www.udemy.com/certificate/UC-8e7b074e-1502-4c57-bfba-1b19e4c31f58/)    | Udemy       |
 | The Complete 2020 Flutter Development Bootcamp with Dart                                | [Ver certificado](https://www.udemy.com/certificate/UC-d2ec7be3-0831-4fc0-b2d9-1d4a1d223922/)    | Udemy       |
-| Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos                             | [Ver certificado](https://www.udemy.com/course/web-completo/learn/lecture/11844366?src=sac&kw=20#overview) |             |
+| Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos                             | [Ver certificado](https://www.udemy.com/course/web-completo/learn/lecture/11844366?src=sac&kw=20#overview) | Udemy       |
 | Design: Design de Interfaces com foco em Projetos Web Udemy                             | [Ver certificado](https://www.udemy.com/certificate/UC-dcac49be-e4a1-4a45-b936-27c323957c1d/)    | Udemy       |
 | HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos)                             | [Ver certificado](https://www.udemy.com/certificate/UC-d75d1c3c-f137-4967-872b-6b7386d260b7/)    | Udemy       |
 | Figma: Design colaborativo do básico ao protótipo responsivo                            | [Ver certificado](https://www.udemy.com/certificate/UC-ae880a4c-def4-49bc-91ba-d4e84aaa6e87/)    | Udemy       |
