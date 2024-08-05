@@ -2,7 +2,7 @@ Olá! Bem-vindo ao meu repositório de aprendizado e desenvolvimento contínuo. 
 
 ## Certificações Profissionais
 
-| Certificação                                                                             | Link                                     | Instituição |
+| Certificações                                                                           | Link                                     | Instituição |
 |-----------------------------------------------------------------------------------------|------------------------------------------|-------------|
 | Oracle Cloud Infrastructure 2023 Certified Foundations Associate                        | [Ver certificação](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79D86557E4FE5259B1BD15DD78314CB9FA241E48A935E3864A813BC7903628D8) | Oracle |
 | Admin                                                                                   | [Ver certificação](https://academy.talkdesk.com/certificate/Xd9J24VSoA)                           | Talkdesk    |
