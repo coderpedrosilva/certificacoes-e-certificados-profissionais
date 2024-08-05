@@ -1,3 +1,5 @@
+Olá! Bem-vindo ao meu repositório de aprendizado e desenvolvimento contínuo. Aqui, você encontrará uma coleção abrangente com certificações e certificados que conquistei ao longo da minha jornada profissional. Estes certificados abrangem uma vasta gama de tópicos, incluindo desenvolvimento web, programação, infraestrutura em nuvem, inteligência artificial, e muito mais. Cada certificação representa um marco importante no meu compromisso com a excelência e o desenvolvimento contínuo de habilidades.
+
 ## Certificações Profissionais
 
 | Certificação                                                                             | Link                                     | Instituição |
