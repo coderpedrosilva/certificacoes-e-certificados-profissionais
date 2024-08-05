@@ -91,4 +91,4 @@ Olá! Bem-vindo ao meu repositório de aprendizado e desenvolvimento contínuo. 
 | Design: Design de Interfaces com foco em Projetos Web Udemy                             | [Ver certificado](https://www.udemy.com/certificate/UC-dcac49be-e4a1-4a45-b936-27c323957c1d/)    | Udemy       |
 | HTML5 e CSS3: Técnicas Avançadas (Com Flexbox e 5 Projetos)                             | [Ver certificado](https://www.udemy.com/certificate/UC-d75d1c3c-f137-4967-872b-6b7386d260b7/)    | Udemy       |
 | Figma: Design colaborativo do básico ao protótipo responsivo                            | [Ver certificado](https://www.udemy.com/certificate/UC-ae880a4c-def4-49bc-91ba-d4e84aaa6e87/)    | Udemy       |
-| Iniciação Profissional em Lógica de Programação                                         |                                                                                                  | SENAI       |
+| Iniciação Profissional em Lógica de Programação                                         | [Ver certificado](Iniciacao_Profissional_em_Logica_de_Programacao.jpg)                          | SENAI       |
