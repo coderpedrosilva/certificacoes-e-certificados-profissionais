@@ -26,6 +26,7 @@ Olá! Bem-vindo ao meu repositório de aprendizado e desenvolvimento contínuo. 
 
 | Cursos                                                                                  | Link                                     | Instituição |
 |-----------------------------------------------------------------------------------------|------------------------------------------|-------------|
+| Be Telecom: Do Zero ao Avançado em Fibra Óptica                                        | [Ver certificado](https://www.udemy.com/certificate/UC-35f20334-8285-4706-820e-b68b0b08fd8f/)    | Udemy       |
 | API REST e Spring Boot: Aprenda do Zero e na Prática                                    | [Ver certificado](https://www.udemy.com/certificate/UC-180a282f-a0de-44b0-a763-12e029bb6ecd/)    | Udemy       |
 | The Foundations of SIP                                                                  | [Ver certificado](https://www.udemy.com/certificate/UC-2fb9ba8d-c27e-46e1-bd79-8ddb69f495fc/)    | Udemy       |
 | Formação Angular + Spring Boot                                                          | [Ver certificado](https://www.udemy.com/certificate/UC-15dc9822-457f-45a1-a554-5340b8d17317/)    | Udemy       |
